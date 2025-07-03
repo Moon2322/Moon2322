@@ -58,7 +58,7 @@ Aquí algunos proyectos en los que e estado trabajando:
 # 📫 Contactame
 
 <div align="center">
-    <a href="aldoyamil23@hotmail.com" style="margin-right: 5px;">
+    <a href="mailto:aldoyamil23@hotmail.com" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
 </div>
