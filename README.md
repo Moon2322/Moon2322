@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola, soy Aldo Luna 👋
+
+Bienvenido soy estudiante de Ingeniería en Desarrollo y gestión de Software en la UTEQ, actualmente en mi noveno cuatrimestre.
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Moon2322/Moon2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
