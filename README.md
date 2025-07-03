@@ -15,50 +15,43 @@ Ingeniería en Desarrollo y Gestión de Software en la UTEQ EN CURSO
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,react" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
   </a>
 </p>
 
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=php,java,py" />
   </a>
 </p>
 
 ### Database
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
   </a>
 </p>
 
 ### Others
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=github,docker,figma,latex" />
   </a>
 </p>
----
-
-## 📊 GitHub Stats
-
-![Moon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📂 Projects
 
-Here are some cool projects I'm working on:
+Aquí algunos proyectos en los que e estado trabajando:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🎓 UTEQ Website | Sitio web completo para la UTEQ | React, Node.js, MySQL |
-| 🔐 Auth System | Secure login with token validation | Express, JWT, SSL/TLS |
 | 🗂️ FFC - Website | Sitio web completo "First Fight Championship" | React, Node.js, MySQL, Render, Vercel |
 
-> 👉 Check out the pinned repositories below!
+> 👉 Revisa los repositorios fijados
 
 ---
 
