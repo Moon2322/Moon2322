@@ -1,39 +1,39 @@
-## Hola, soy Aldo Luna 👋
+# Hola, soy Aldo Luna 👋
 
 Soy estudiante de Ingeniería en Desarrollo y gestión de Software en la UTEQ, actualmente en mi noveno cuatrimestre.
 
 ---
 
-## 📚 Educación
+# 📚 Educación
 TSU en Desarrollo de Software Multiplataforma en la UTEQ COMPLETADO
 Ingeniería en Desarrollo y Gestión de Software en la UTEQ EN CURSO
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
-### Frontend
+## Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react" />
   </a>
 </p>
 
-### Backend
+## Backend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,java,py" />
   </a>
 </p>
 
-### Database
+## Database
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
   </a>
 </p>
 
-### Others
+## Others
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,docker,figma,latex" />
@@ -42,7 +42,7 @@ Ingeniería en Desarrollo y Gestión de Software en la UTEQ EN CURSO
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
 Aquí algunos proyectos en los que e estado trabajando:
 
@@ -55,10 +55,13 @@ Aquí algunos proyectos en los que e estado trabajando:
 
 ---
 
-## 📫 Let's Connect!
+# 📫 Contactame
 
-- ✉️ [Email Me](mailto:aldoyamil23@hotmail.com)
-
+<div align="center">
+    <a href="aldoyamil23@hotmail.com" style="margin-right: 5px;">
+        <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
+    </a>
+</div>
 <!--
 **Moon2322/Moon2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
