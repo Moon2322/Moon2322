@@ -4,7 +4,7 @@ Soy estudiante de Ingeniería en Desarrollo y gestión de Software en la UTEQ, a
 
 ---
 
-# 📚 Educación
+## 📚 Educación
 TSU en Desarrollo de Software Multiplataforma en la UTEQ COMPLETADO
 Ingeniería en Desarrollo y Gestión de Software en la UTEQ EN CURSO
 
